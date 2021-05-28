@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>stylebyyou</title>
+	<link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+	<div class="header">
+		<div class="header-logo">stylebyyou</div>
+		<div class="header-list">
+			<ul>
+				<li>Ideas</li>
+				<li>Style Stories</li>
+				<li>Collections</li>
+        <li>Search</li>
+			</ul>
+		</div>
+	</div>
+<div class="main">
+	<div class="copy-container">
+    <img src="https://www.adamlowephotography.com/wp-content/uploads/2018/03/2018-03-21_0007.jpg">
+    </div>
+    </div>
+	<div class="footer">
+		<div class="footer-logo">Stylebyyou</div>
+		<div class="footer-list">
+			<ul>
+				<li>About Us</li>
+				<li>Contact us</li>
+			</ul>
+		</div>
+	</div>
+	</body>
+	
+	</html>
