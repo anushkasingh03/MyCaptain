@@ -1,0 +1,46 @@
+body {
+  font-family: "lucida calligraphy";
+}
+li {
+  list-style: none;
+}
+
+.header {
+  background-color:#84898d;
+  color: #fff;
+  height: 90px;
+  width:1089px;
+}
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding:33px 20px;
+}
+.main {
+  padding-left: 10px;
+}
+.footer {
+  background-color: #84898d;
+  color: #fff;
+  height: 90px;
+  width:1015px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
